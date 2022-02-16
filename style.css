@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+}
+h2 {
+    color: blue;
+}
+.video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+Body {
+    background-image: url(https://spacegid.com/wp-content/uploads/2019/04/orion.jpg);;
+}
